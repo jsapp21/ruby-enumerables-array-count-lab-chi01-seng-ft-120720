@@ -1,9 +1,8 @@
 # Return the total number of strings in the provided array using the count enumerable
 
 def count_strings(array)
-  row_index = 0 
-  while row_index < array.count do
-    data == String 
+    array.count do |data|
+    data = String 
   end 
 end
 
